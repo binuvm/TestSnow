@@ -3,19 +3,19 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>u_actual_hours</field>
-        <mandatory>ignore</mandatory>
+        <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-19 09:01:33</sys_created_on>
         <sys_id>a8e23201db5050105df68e47489619fa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>u_actual_hours</sys_name>
         <sys_package display_value="Efforttracker" source="x_476354_efforttra">d4ec5d89dbd810105df68e474896197c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Efforttracker">d4ec5d89dbd810105df68e474896197c</sys_scope>
         <sys_update_name>sys_ui_policy_action_a8e23201db5050105df68e47489619fa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-19 09:01:33</sys_updated_on>
+        <sys_updated_on>2020-04-19 09:17:56</sys_updated_on>
         <table>x_476354_efforttra_pmtooltasks</table>
         <ui_policy display_value="Shows the field when the state is Closed.">54b0f2c9db1050105df68e47489619aa</ui_policy>
         <visible>true</visible>
