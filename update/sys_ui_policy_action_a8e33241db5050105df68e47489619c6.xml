@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_actual_hours</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 09:05:28</sys_created_on>
+        <sys_id>a8e33241db5050105df68e47489619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_actual_hours</sys_name>
+        <sys_package display_value="Efforttracker" source="x_476354_efforttra">d4ec5d89dbd810105df68e474896197c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Efforttracker">d4ec5d89dbd810105df68e474896197c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a8e33241db5050105df68e47489619c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 09:05:28</sys_updated_on>
+        <table>x_476354_efforttra_pmtooltasks</table>
+        <ui_policy display_value="hides the field when the State is not completed">7583ba01db5050105df68e47489619fb</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

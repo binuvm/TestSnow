@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 04:53:51</sys_created_on>
+        <sys_id>9f5ab589db5c10105df68e474896194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_476354_efforttra_pmtool_users.x_476354_efforttra.pmtool_users_user</sys_name>
+        <sys_package display_value="Efforttracker" source="x_476354_efforttra">d4ec5d89dbd810105df68e474896197c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Efforttracker">d4ec5d89dbd810105df68e474896197c</sys_scope>
+        <sys_security_acl display_value="x_476354_efforttra_pmtool_users">135ab589db5c10105df68e474896194d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9f5ab589db5c10105df68e474896194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 04:53:51</sys_updated_on>
+        <sys_user_role display_value="x_476354_efforttra.pmtool_users_user" name="x_476354_efforttra.pmtool_users_user">875a7589db5c10105df68e4748961919</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

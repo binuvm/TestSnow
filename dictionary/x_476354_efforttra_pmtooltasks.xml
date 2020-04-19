@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="PmtoolTasks" max_length="40" name="x_476354_efforttra_pmtooltasks" type="collection"/>
+    <element extends="task" label="PmtoolTasks" max_length="40" name="x_476354_efforttra_pmtooltasks" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Task name" mandatory="true" max_length="40" name="task_name" type="string"/>
+        <element label="Actual hours" max_length="15" name="u_actual_hours" type="decimal"/>
+        <element label="Estimated hours" max_length="15" name="u_estimated_hours" type="decimal"/>
+    </element>
 </database>
